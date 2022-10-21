@@ -28,5 +28,5 @@ Lastly, use ```python3 server.py``` to run server.py on the terminal and run the
 - ax: acceleration in x-direction
 - ax: acceleration in x-direction
 - ax: acceleration in x-direction
-<img src="https://i.imgur.com/uozoyLA.png" alt="Alt text" title="Optional title">
-[CMD_RESULT](https://i.imgur.com/5qJFAPB.png)
+<img src="https://i.imgur.com/uozoyLA.png" alt="Alt text" title="result">
+<img src="https://i.imgur.com/5qJFAPB.png" alt="Alt text" title="CMD_RESULT">
