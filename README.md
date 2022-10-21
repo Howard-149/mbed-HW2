@@ -5,3 +5,6 @@ To run the program, first modify line 14,15 of mbed_app.json by simply fill in y
 Second, modify line 27,28 in server.py, fill in your IP address and port. 
 Third, modify line 9,10 of source/main.cpp, fill in the IP address and port of your server. 
 Lastly, use python3 server.py to run server.py on the terminal and run the program on DISCO-L4S5I.
+
+
+![](https://imgur.com/uozoyLA)
