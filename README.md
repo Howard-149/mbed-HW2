@@ -22,4 +22,10 @@ Lastly, use ```python3 server.py``` to run server.py on the terminal and run the
 
 
 ## Result
+- ax: acceleration in x-direction
+- ay: acceleration in y-direction
+- az: acceleration in z-direction
+- ax: acceleration in x-direction
+- ax: acceleration in x-direction
+- ax: acceleration in x-direction
 <img src="https://i.imgur.com/uozoyLA.png" alt="Alt text" title="Optional title">
