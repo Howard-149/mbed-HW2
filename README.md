@@ -8,6 +8,5 @@ Lastly, use python3 server.py to run server.py on the terminal and run the progr
 
 
 
-
+# Result
 <img src="https://i.imgur.com/uozoyLA.png" alt="Alt text" title="Optional title">
-![result](https://i.imgur.com/uozoyLA.png)
