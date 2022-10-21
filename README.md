@@ -7,4 +7,4 @@ Third, modify line 9,10 of source/main.cpp, fill in the IP address and port of y
 Lastly, use python3 server.py to run server.py on the terminal and run the program on DISCO-L4S5I.
 
 
-![](https://imgur.com/uozoyLA)
+![https://imgur.com/uozoyLA](1.png)
