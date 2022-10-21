@@ -23,12 +23,12 @@ Lastly, use ```python3 server.py``` to run server.py on the terminal and run the
 
 ## Result
 ### Server
-- ax: acceleration in x-direction
-- ay: acceleration in y-direction
-- az: acceleration in z-direction
-- gx: angular acceleration in x-direction
-- gy: angular acceleration in y-direction
-- gz: angular acceleration in z-direction
+- **ax**: acceleration in x-direction
+- **ay**: acceleration in y-direction
+- **az**: acceleration in z-direction
+- **gx**: angular acceleration in x-direction
+- **gy**: angular acceleration in y-direction
+- **gz**: angular acceleration in z-direction
 <img src="https://i.imgur.com/uozoyLA.png" alt="Alt text" title="result">
 
 ### Device
